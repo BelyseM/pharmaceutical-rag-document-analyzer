@@ -9,4 +9,4 @@ The notebook still contains the generic metric implementations for:
 - Precision@K
 - Hit Rate
 
-If you have explicit permission to publish a sanitized evaluation dataset, place it here and connect it to the evaluation harness.
+
