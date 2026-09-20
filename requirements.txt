@@ -1,0 +1,30 @@
+# Core application
+gradio
+gradio_pdf
+pypdf
+PyPDF2
+PyMuPDF
+pytesseract
+Pillow
+
+# ML / embeddings / retrieval
+sentence-transformers
+transformers
+faiss-cpu
+numpy
+pandas
+
+# LlamaIndex
+llama-index
+llama-index-readers-file
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+llama-index-llms-gemini
+
+# Local LLM inference
+llama-cpp-python
+accelerate
+bitsandbytes
+
+# Notebook/runtime
+torch
